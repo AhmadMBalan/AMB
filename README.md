@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/ahmadmbalan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/ahmadmbalan/">
+  <a href="https://www.instagram.com/ahmadm.balan/">
     <img src="https://img.shields.io/badge/instagram-orangered?style=for-the-badge&logo=instagram&logoColor=white" alt="Intagram Badge"/>
   </a>
   <a href="https://www.twitter.com/ahmadmbalan/">
